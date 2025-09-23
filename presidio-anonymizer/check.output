@@ -8,3 +8,23 @@ origin	git@github.com:jcava17/presidio.git (fetch)
 origin	git@github.com:jcava17/presidio.git (push)
 0
 My name is jcava17, jcava17.
+<<<<<<< Updated upstream
+=======
+new check
+origin	git@github.com:jcava17/presidio.git (fetch)
+origin	git@github.com:jcava17/presidio.git (push)
+0
+My name is jcava17, jcava17.new check
+origin	git@github.com:jcava17/presidio.git (fetch)
+origin	git@github.com:jcava17/presidio.git (push)
+0
+My name is jcava17, jcava17new check
+origin	git@github.com:jcava17/presidio.git (fetch)
+origin	git@github.com:jcava17/presidio.git (push)
+0
+My name is jcava17, jcava17new check
+origin	git@github.com:jcava17/presidio.git (fetch)
+origin	git@github.com:jcava17/presidio.git (push)
+0
+My name is jcava17, jcava17.
+>>>>>>> Stashed changes
