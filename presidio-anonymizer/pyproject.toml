@@ -36,9 +36,18 @@ ahds = [
 ]
 
 [tool.poetry.group.dev.dependencies]
-pip = "*"
 ruff = "*"
 pytest = "*"
 pytest-mock = "*"
 python-dotenv = "*"
 pre_commit = "*"
+pytest-cov = "^7.0.0"
+[tool.poetry]
+name = "presidio-anonymizer"
+version = "0.0.0"
+description = "Local dev/test"
+authors = ["Dev <dev@example.com>"]
+
+[tool.poetry.dependencies]
+cryptography = ">=42"
+python = ">=3.9,<4.0"
